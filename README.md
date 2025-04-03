@@ -11,3 +11,5 @@ https://github.com/tztechno/papers/blob/main/2501.12948v1(E).pdf
 #### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 https://github.com/tztechno/papers/blob/main/2402.03300v3(E).pdf
 
+#### Attention Is All You Need
+
