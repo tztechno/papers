@@ -16,4 +16,7 @@ https://github.com/tztechno/papers/blob/main/1706.03762v7(E).pdf
 
 #### Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
 
+#### Understanding R1-Zero-Like Training: A Critical Perspective
+
+
 
