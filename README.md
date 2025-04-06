@@ -13,3 +13,7 @@ https://github.com/tztechno/papers/blob/main/2402.03300v3(E).pdf
 
 #### Attention Is All You Need
 https://github.com/tztechno/papers/blob/main/1706.03762v7(E).pdf
+
+#### Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+
+
