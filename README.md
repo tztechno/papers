@@ -18,5 +18,5 @@ https://github.com/tztechno/papers/blob/main/1706.03762v7(E).pdf
 
 #### Understanding R1-Zero-Like Training: A Critical Perspective
 
-
+#### CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models
 
